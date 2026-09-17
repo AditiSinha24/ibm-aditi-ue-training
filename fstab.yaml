@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p34583-e1771246.adobeaemcloud.com/bin/franklin.delivery/AditiSinha24/ibm-aditi-ue-training/main"
+    url: "https://author-p34583-e1771246.adobeaemcloud.com/bin/franklin.delivery/aditisinha24/ibm-aditi-ue-training/main"
     type: "markup"
     suffix: ".html"
